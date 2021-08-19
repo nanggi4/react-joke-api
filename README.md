@@ -7,7 +7,7 @@
 - axios
 - clsx
 - random-joke-api
-### `[random-joke-api]`(http://api.icndb.com/jokes/random)
+### `[random-joke-api]` (http://api.icndb.com/jokes/random)
 
 #### `npm install`
 #### `npm start`
